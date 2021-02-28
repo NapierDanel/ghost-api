@@ -1,0 +1,63 @@
+{
+    "ghosts": [
+        {
+            "id": 0,
+            "name": "RoomGhost",
+            "path": "pictures/ghost.png",
+            "spookLevel": 5,
+            "specialAttacks": [
+                "zoom",
+                "scream",
+                "whiteFist"
+            ],
+            "enviroments": [
+                "room"
+            ]
+        },
+        {
+            "id": 1,
+            "name": "GardenGhost",
+            "path": "pictures/spaceGhost.png",
+            "spookLevel": 6,
+            "specialAttacks": [
+                "cutter",
+                "scream",
+                "runFist"
+            ],
+            "enviroments": [
+                "room"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "SpaceGhost",
+            "path": "pictures/spaceGhost.png",
+            "spookLevel": 3,
+            "specialAttacks": [
+                "gravitation",
+                "vacoum",
+                "spaceFist"
+            ],
+            "enviroments": [
+                "Spacestation",
+                "rocketField"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "PixelGhost",
+            "path": "pictures/pixelGhost.png",
+            "spookLevel": 3,
+            "specialAttacks": [
+                "pixel",
+                "eat",
+                "digitDrop"
+            ],
+            "enviroments": [
+                "Spacestation",
+                "Computer"
+            ]
+        }
+
+    ]
+}
